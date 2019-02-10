@@ -6,4 +6,7 @@
 ## Type Theory
 * Homotopy Type Theory: Univalent Foundations of Mathematics
 
+## Monads (general)
+* Computational lambda-calculus and monads
+
 
