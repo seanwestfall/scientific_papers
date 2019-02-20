@@ -16,6 +16,9 @@
 ## Dependent Types
 * Dependent Types in Haskell: Theory and Practice
 
+## Fudgets
+* Lazy Functional Components for Graphical User Interfaces
+
 ## Uncategorized
 * The Implementation of Functional Programming Languages
 
