@@ -13,6 +13,9 @@
 ## Comonads
 * Comonadic Notions of Computation
 
+## Dependent Types
+* Dependent Types in Haskell: Theory and Practice
+
 ## Uncategorized
 * The Implementation of Functional Programming Languages
 
