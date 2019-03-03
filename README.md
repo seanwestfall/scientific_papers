@@ -7,6 +7,7 @@
 ## Type Theory
 * Homotopy Type Theory: Univalent Foundations of Mathematics
 * Type Systems for Programming Languages
+* A Theory of Type Polymorphism in Programming
 
 ## Monads (general)
 * Computational lambda-calculus and monads
