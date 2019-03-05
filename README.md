@@ -13,6 +13,8 @@
 
 ## Monads (general)
 * Computational lambda-calculus and monads
+* Monads for functional programming
+* The essence of functional programming
 
 ## Comonads
 * Comonadic Notions of Computation
