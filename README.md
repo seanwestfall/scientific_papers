@@ -10,11 +10,14 @@
 * A Theory of Type Polymorphism in Programming
 * Generalizing Hindley-Milner Type Inference Algorithms
 * Complete and Easy Bidirectional Typechecking for Higher-Rank Polymorphism
+* Propositions as Types
+* Theorems for Free!
 
 ## Monads (general)
 * Computational lambda-calculus and monads
 * Monads for functional programming
 * The essence of functional programming
+* Imperative functional programming
 
 ## Comonads
 * Comonadic Notions of Computation
