@@ -8,6 +8,8 @@
 * Homotopy Type Theory: Univalent Foundations of Mathematics
 * Type Systems for Programming Languages
 * A Theory of Type Polymorphism in Programming
+* Generalizing Hindley-Milner Type Inference Algorithms
+* Complete and Easy Bidirectional Typechecking for Higher-Rank Polymorphism
 
 ## Monads (general)
 * Computational lambda-calculus and monads
