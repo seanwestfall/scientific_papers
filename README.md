@@ -12,6 +12,7 @@
 * Complete and Easy Bidirectional Typechecking for Higher-Rank Polymorphism
 * Propositions as Types
 * Theorems for Free!
+* Typability and type checking in System F are equivalent and undecidable’
 
 ## Monads (general)
 * Computational lambda-calculus and monads
