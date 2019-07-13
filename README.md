@@ -13,6 +13,8 @@
 * Propositions as Types
 * Theorems for Free!
 * Typability and type checking in System F are equivalent and undecidable’
+* Advanced Topics in Types and Programming Languages
+* Type Theory & Functional Programming
 
 ## Monads (general)
 * Computational lambda-calculus and monads
