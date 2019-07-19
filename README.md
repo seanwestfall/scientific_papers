@@ -15,6 +15,9 @@
 * Typability and type checking in System F are equivalent and undecidable’
 * Advanced Topics in Types and Programming Languages
 * Type Theory & Functional Programming
+* Sound and Complete Bidirectional Typechecking for Higher-Rank Polymorphism with Existentials and Indexed Types
+* A Practical Subtyping System For Erlang
+* Wobbly Types: Type Inference For Generalised Algebraic Data Types
 
 ## Monads (general)
 * Computational lambda-calculus and monads
