@@ -3,6 +3,7 @@
 * Seven Sketches in Compositionality: An Invitation to Applied Category Theory
 * Category Theory for Scientists (Old Version)
 * Categories for the Working Mathematician
+* Cofree Traversable Functors
 
 ## Type Theory
 * Homotopy Type Theory: Univalent Foundations of Mathematics
@@ -18,6 +19,7 @@
 * Sound and Complete Bidirectional Typechecking for Higher-Rank Polymorphism with Existentials and Indexed Types
 * A Practical Subtyping System For Erlang
 * Wobbly Types: Type Inference For Generalised Algebraic Data Types
+* Proofs and Types
 
 ## Monads (general)
 * Computational lambda-calculus and monads
@@ -34,6 +36,10 @@
 ## Fudgets
 * Lazy Functional Components for Graphical User Interfaces
 
+## NixOS
+* NixOS: A Purely Functional Linux Distribution
+
 ## Uncategorized
 * The Implementation of Functional Programming Languages
+* The Purely Functional Software Deployment Model
 
