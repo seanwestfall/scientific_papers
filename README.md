@@ -26,6 +26,7 @@
 * Monads for functional programming
 * The essence of functional programming
 * Imperative functional programming
+* A Monad for Deterministic Parallelism
 
 ## Comonads
 * Comonadic Notions of Computation
