@@ -31,6 +31,9 @@
 ## Comonads
 * Comonadic Notions of Computation
 
+## Free Monads
+* Freer Monads, More Extensible Effects
+
 ## Dependent Types
 * Dependent Types in Haskell: Theory and Practice
 
