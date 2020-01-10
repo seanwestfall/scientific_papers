@@ -46,4 +46,5 @@
 ## Uncategorized
 * The Implementation of Functional Programming Languages
 * The Purely Functional Software Deployment Model
+* Haskell SpriteKit
 
