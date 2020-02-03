@@ -21,6 +21,9 @@
 * Wobbly Types: Type Inference For Generalised Algebraic Data Types
 * Proofs and Types
 
+## Programming Language Theory (general)
+* The Design and Implementation of Typed Scheme
+
 ## Monads (general)
 * Computational lambda-calculus and monads
 * Monads for functional programming
