@@ -23,6 +23,7 @@
 
 ## Programming Language Theory (general)
 * The Design and Implementation of Typed Scheme
+* A Practical Type Checker for Scheme
 
 ## Monads (general)
 * Computational lambda-calculus and monads
