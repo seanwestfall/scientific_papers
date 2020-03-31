@@ -51,4 +51,5 @@
 * The Implementation of Functional Programming Languages
 * The Purely Functional Software Deployment Model
 * Haskell SpriteKit
+* QED at Large: A Survey of Engineering of Formally Verified Software
 
