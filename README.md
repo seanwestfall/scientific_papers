@@ -52,4 +52,5 @@
 * The Purely Functional Software Deployment Model
 * Haskell SpriteKit
 * QED at Large: A Survey of Engineering of Formally Verified Software
+* A Block Design for Introductory Functional Programming in Haskell
 
