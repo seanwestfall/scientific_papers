@@ -20,6 +20,7 @@
 * A Practical Subtyping System For Erlang
 * Wobbly Types: Type Inference For Generalised Algebraic Data Types
 * Proofs and Types
+* In Search of Types
 
 ## Programming Language Theory (general)
 * The Design and Implementation of Typed Scheme
@@ -37,9 +38,11 @@
 
 ## Free Monads
 * Freer Monads, More Extensible Effects
+* Totality versus Turing-Completeness?
 
 ## Dependent Types
 * Dependent Types in Haskell: Theory and Practice
+* Certified Programming with Dependent Types
 
 ## Fudgets
 * Lazy Functional Components for Graphical User Interfaces
