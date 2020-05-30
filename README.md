@@ -57,3 +57,4 @@
 * QED at Large: A Survey of Engineering of Formally Verified Software
 * A Block Design for Introductory Functional Programming in Haskell
 * Efficient Functional Programming using Linear Types: The Array Fragment
+* Exploring Generic Haskell
