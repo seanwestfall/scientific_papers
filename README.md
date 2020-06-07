@@ -21,6 +21,7 @@
 * Wobbly Types: Type Inference For Generalised Algebraic Data Types
 * Proofs and Types
 * In Search of Types
+* Introduction to Univalent Foundations of Mathematics with Agda
 
 ## Programming Language Theory (general)
 * The Design and Implementation of Typed Scheme
