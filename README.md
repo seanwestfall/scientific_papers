@@ -6,6 +6,7 @@
 * Cofree Traversable Functors
 * Category Theory Using String Diagrams
 * Category Theory
+* Basic Category Theory
 
 ## Type Theory
 * Homotopy Type Theory: Univalent Foundations of Mathematics
