@@ -4,6 +4,7 @@
 * Category Theory for Scientists (Old Version)
 * Categories for the Working Mathematician
 * Cofree Traversable Functors
+* Category Theory Using String Diagrams
 
 ## Type Theory
 * Homotopy Type Theory: Univalent Foundations of Mathematics
