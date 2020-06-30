@@ -63,3 +63,4 @@
 * Efficient Functional Programming using Linear Types: The Array Fragment
 * Exploring Generic Haskell
 * Verified Functional Programming in Agda
+* Retrofitting Linear Types
