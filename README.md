@@ -29,6 +29,7 @@
 ## Programming Language Theory (general)
 * The Design and Implementation of Typed Scheme
 * A Practical Type Checker for Scheme
+* System F in Agda, for fun and profit
 
 ## Monads (general)
 * Computational lambda-calculus and monads
