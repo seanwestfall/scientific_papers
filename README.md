@@ -30,6 +30,7 @@
 * The Design and Implementation of Typed Scheme
 * A Practical Type Checker for Scheme
 * System F in Agda, for fun and profit
+* From System F to Typed Assembly Language
 
 ## Monads (general)
 * Computational lambda-calculus and monads
