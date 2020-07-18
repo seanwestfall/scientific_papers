@@ -50,6 +50,10 @@
 * Dependent Types in Haskell: Theory and Practice
 * Certified Programming with Dependent Types
 
+## Linear Types
+* Composable Efficient Array Computations Using Linear Types
+* On the Duality of Streams: How Can Linear Types Help to Solve the Lazy IO Problem?
+
 ## Fudgets
 * Lazy Functional Components for Graphical User Interfaces
 
