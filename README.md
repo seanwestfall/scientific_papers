@@ -49,6 +49,7 @@
 ## Dependent Types
 * Dependent Types in Haskell: Theory and Practice
 * Certified Programming with Dependent Types
+* A Tutorial Implementation of a Dependently Typed Lambda Calculus
 
 ## Linear Types
 * Composable Efficient Array Computations Using Linear Types
