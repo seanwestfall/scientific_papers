@@ -51,6 +51,7 @@
 ## Dependent Types
 * Dependent Types in Haskell: Theory and Practice
 * Certified Programming with Dependent Types
+* A Tutorial Implementation of a Dependently Typed Lambda Calculus
 
 ## Linear Types
 * Composable Efficient Array Computations Using Linear Types
@@ -72,3 +73,4 @@
 * Exploring Generic Haskell
 * Verified Functional Programming in Agda
 * Retrofitting Linear Types
+* The History of Standard ML
