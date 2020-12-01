@@ -25,6 +25,8 @@
 * Proofs and Types
 * In Search of Types
 * Introduction to Univalent Foundations of Mathematics with Agda
+* Bidirectional Typing
+* Program = Proof
 
 ## Programming Language Theory (general)
 * The Design and Implementation of Typed Scheme
