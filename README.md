@@ -63,6 +63,9 @@
 ## NixOS
 * NixOS: A Purely Functional Linux Distribution
 
+## Cubical Type Theory
+* Cubical Type Theory: A Constructive Interpretation of the Univalence Axiom
+
 ## Uncategorized
 * The Implementation of Functional Programming Languages
 * The Purely Functional Software Deployment Model
