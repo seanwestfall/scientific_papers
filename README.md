@@ -67,6 +67,7 @@
 
 ## Cubical Type Theory
 * Cubical Type Theory: A Constructive Interpretation of the Univalence Axiom
+* Finiteness in Cubical Type Theory
 
 ## Uncategorized
 * The Implementation of Functional Programming Languages
