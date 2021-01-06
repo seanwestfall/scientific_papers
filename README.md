@@ -33,6 +33,7 @@
 * A Practical Type Checker for Scheme
 * System F in Agda, for fun and profit
 * From System F to Typed Assembly Language
+* Type checking in the presence of meta-variables
 
 ## Monads (general)
 * Computational lambda-calculus and monads
@@ -52,6 +53,7 @@
 * Dependent Types in Haskell: Theory and Practice
 * Certified Programming with Dependent Types
 * A Tutorial Implementation of a Dependently Typed Lambda Calculus
+* Higher-Order Dynamic Pattern Unification for Dependent Types and Records
 
 ## Linear Types
 * Composable Efficient Array Computations Using Linear Types
@@ -78,3 +80,4 @@
 * Retrofitting Linear Types
 * The History of Standard ML
 * A Calculus of Mobile Processes, I & II
+* Efficient Communication and Collection with Compact Normal Form
