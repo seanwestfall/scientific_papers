@@ -82,3 +82,4 @@
 * The History of Standard ML
 * A Calculus of Mobile Processes, I & II
 * Efficient Communication and Collection with Compact Normal Form
+* Purely Functional Data Structures
