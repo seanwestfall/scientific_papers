@@ -84,3 +84,4 @@
 * Efficient Communication and Collection with Compact Normal Form
 * Purely Functional Data Structures
 * How to write a Finanial Contrat
+* Composing Contracts: An Adventure in Financial Engineering
