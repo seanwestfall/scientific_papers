@@ -83,3 +83,4 @@
 * A Calculus of Mobile Processes, I & II
 * Efficient Communication and Collection with Compact Normal Form
 * Purely Functional Data Structures
+* How to write a Finanial Contrat
