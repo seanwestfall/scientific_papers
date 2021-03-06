@@ -41,9 +41,11 @@
 * The essence of functional programming
 * Imperative functional programming
 * A Monad for Deterministic Parallelism
+* Burritos for the Hungry Mathematician
 
 ## Comonads
 * Comonadic Notions of Computation
+* A Real-World Application with a Comonadic User Interface
 
 ## Free Monads
 * Freer Monads, More Extensible Effects
