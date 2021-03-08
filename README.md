@@ -86,5 +86,5 @@
 * A Calculus of Mobile Processes, I & II
 * Efficient Communication and Collection with Compact Normal Form
 * Purely Functional Data Structures
-* How to write a Finanial Contrat
+* How to write a Finanial Contract
 * Composing Contracts: An Adventure in Financial Engineering
