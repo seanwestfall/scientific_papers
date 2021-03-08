@@ -60,6 +60,7 @@
 ## Linear Types
 * Composable Efficient Array Computations Using Linear Types
 * On the Duality of Streams: How Can Linear Types Help to Solve the Lazy IO Problem?
+* Linear types can change the world!
 
 ## Fudgets
 * Lazy Functional Components for Graphical User Interfaces
