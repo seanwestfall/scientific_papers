@@ -27,6 +27,7 @@
 * Introduction to Univalent Foundations of Mathematics with Agda
 * Bidirectional Typing
 * Program = Proof
+* Formal Topology in Univalent Foundations
 
 ## Programming Language Theory (general)
 * The Design and Implementation of Typed Scheme
