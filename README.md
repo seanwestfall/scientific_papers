@@ -73,6 +73,9 @@
 * Cubical Type Theory: A Constructive Interpretation of the Univalence Axiom
 * Finiteness in Cubical Type Theory
 
+## API design
+* Functional Pearls Ghosts of Departed Proofs
+
 ## Uncategorized
 * The Implementation of Functional Programming Languages
 * The Purely Functional Software Deployment Model
