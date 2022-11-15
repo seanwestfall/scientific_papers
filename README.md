@@ -76,6 +76,9 @@
 ## API design
 * Functional Pearls Ghosts of Departed Proofs
 
+## Transient State Electronics
+* Recent development of transient electronics
+
 ## Uncategorized
 * The Implementation of Functional Programming Languages
 * The Purely Functional Software Deployment Model
