@@ -77,7 +77,8 @@
 * Functional Pearls Ghosts of Departed Proofs
 
 ## Transient State Electronics
-* Recent development of transient electronics
+* Recent development of transient electronics  
+* Transient Electronics as Sustainable Systems: From Fundamentals to Applications  
 
 ## Uncategorized
 * The Implementation of Functional Programming Languages
