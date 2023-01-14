@@ -85,6 +85,7 @@
 ## Quantum Theory and Proofs
 * An Effect-Theoretic Reconstruction of Quantum Theory
 * MIP* = R 
+* International Symposium on Mathematics, Quantum Theory, and Cryptography (2019)
 
 ## Uncategorized
 * The Implementation of Functional Programming Languages
