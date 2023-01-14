@@ -43,6 +43,7 @@
 * Imperative functional programming
 * A Monad for Deterministic Parallelism
 * Burritos for the Hungry Mathematician
+* Toposes of Topological Monoid Actions
 
 ## Comonads
 * Comonadic Notions of Computation
@@ -68,6 +69,7 @@
 
 ## NixOS
 * NixOS: A Purely Functional Linux Distribution
+* The Purely Functional Software Deployment Model
 
 ## Cubical Type Theory
 * Cubical Type Theory: A Constructive Interpretation of the Univalence Axiom
@@ -80,9 +82,12 @@
 * Recent development of transient electronics  
 * Transient Electronics as Sustainable Systems: From Fundamentals to Applications  
 
+## Quantum Theory and Proofs
+* An Effect-Theoretic Reconstruction of Quantum Theory
+* MIP* = R 
+
 ## Uncategorized
 * The Implementation of Functional Programming Languages
-* The Purely Functional Software Deployment Model
 * Haskell SpriteKit
 * QED at Large: A Survey of Engineering of Formally Verified Software
 * A Block Design for Introductory Functional Programming in Haskell
