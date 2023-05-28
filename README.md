@@ -104,3 +104,4 @@
 * How to write a Finanial Contract
 * Composing Contracts: An Adventure in Financial Engineering
 * How to Keep Your Neighbours in Order
+* On the Bright Side of Type Classes: Instance Arguments in Agda  
