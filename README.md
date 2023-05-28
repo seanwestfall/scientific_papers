@@ -57,7 +57,8 @@
 * Dependent Types in Haskell: Theory and Practice
 * Certified Programming with Dependent Types
 * A Tutorial Implementation of a Dependently Typed Lambda Calculus
-* Higher-Order Dynamic Pattern Unification for Dependent Types and Records
+* Higher-Order Dynamic Pattern Unification for Dependent Types and Records  
+* Dependently Typed Programming in Agda  
 
 ## Linear Types
 * Composable Efficient Array Computations Using Linear Types
