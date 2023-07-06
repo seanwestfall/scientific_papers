@@ -53,6 +53,13 @@
 * Freer Monads, More Extensible Effects
 * Totality versus Turing-Completeness?
 
+## Type Checking
+* Type checking and normalisation
+* Type checking through unification
+* Practical dependent type checking using twin types
+* A Dependently-Typed Linear π-Calculus in Agda
+* Co-Contextual Typing Inference for the Linear π-Calculus in Agda
+
 ## Dependent Types
 * Dependent Types in Haskell: Theory and Practice
 * Certified Programming with Dependent Types
