@@ -28,7 +28,6 @@
 * Bidirectional Typing
 * Program = Proof
 * Formal Topology in Univalent Foundations
-* A DISTRIBUTED pi-calculus [(link)](../master/papers/Adistributedpi-calculus(MatthewHennessy)(Z-Library).pdf)
 
 ## Programming Language Theory (general)
 * The Design and Implementation of Typed Scheme
@@ -74,6 +73,10 @@
 * On the Duality of Streams: How Can Linear Types Help to Solve the Lazy IO Problem?
 * Linear types can change the world!
 
+## Pi-calculus
+* A DISTRIBUTED pi-calculus [(link)](../master/papers/Adistributedpi-calculus(MatthewHennessy)(Z-Library).pdf)
+* Communicating Sequential Processes [(link)](../master/papers/cspbook.pdf)
+
 ## Fudgets
 * Lazy Functional Components for Graphical User Interfaces
 
@@ -115,3 +118,5 @@
 * Composing Contracts: An Adventure in Financial Engineering
 * How to Keep Your Neighbours in Order
 * On the Bright Side of Type Classes: Instance Arguments in Agda  
+* The Undecidability of BB(748) [(link)](../master/papers/achelor-thesis-undecidability-bb748.pdf)
+* HASKELL The Craft of Functional Programming [(link)](../master/papers/craft3e.pdf)
