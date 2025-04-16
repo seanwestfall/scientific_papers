@@ -60,6 +60,7 @@
 * A Dependently-Typed Linear π-Calculus in Agda
 * Co-Contextual Typing Inference for the Linear π-Calculus in Agda
 * Mœbius: Metaprogramming using Contextual Types [(link)](../master/papers/3498700.pdf)
+* Dependent pattern matching and proof-relevant unification [(link)](../master/papers/thesis-final-digital.pdf)
 
 ## Dependent Types
 * Dependent Types in Haskell: Theory and Practice
@@ -120,3 +121,5 @@
 * On the Bright Side of Type Classes: Instance Arguments in Agda  
 * The Undecidability of BB(748) [(link)](../master/papers/achelor-thesis-undecidability-bb748.pdf)
 * HASKELL The Craft of Functional Programming [(link)](../master/papers/craft3e.pdf)
+* Understanding and Evolving the ML Module System [(link)](../master/papers/understanding-and-evolving-the-ml-module-system.pdf)
+* Mathematics for Computer Science [(link)](../master/papers/mcs.pdf)
