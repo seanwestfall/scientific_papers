@@ -94,7 +94,7 @@
 * An Effect-Theoretic Reconstruction of Quantum Theory
 * MIP* = R 
 * International Symposium on Mathematics, Quantum Theory, and Cryptography (2019)
-* Inference, interference and invariance: How the Quantum Fourier Transform can help to learn from data [(link)](../master/papers/10.1.1.142.5910.pdf)
+* Inference, interference and invariance: How the Quantum Fourier Transform can help to learn from data [(link)](../master/papers/2409.00172v1.pdf)
 
 ## Uncategorized
 * The Implementation of Functional Programming Languages
