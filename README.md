@@ -28,7 +28,7 @@
 * Bidirectional Typing
 * Program = Proof
 * Formal Topology in Univalent Foundations
-* A DISTRIBUTED pi-calculus [(link)](../master/papers/Adistributedpi-calculus(MatthewHennessy)(Z-Library))
+* A DISTRIBUTED pi-calculus [(link)](../master/papers/Adistributedpi-calculus(MatthewHennessy)(Z-Library).pdf)
 
 ## Programming Language Theory (general)
 * The Design and Implementation of Typed Scheme
