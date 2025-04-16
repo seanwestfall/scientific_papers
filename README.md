@@ -28,6 +28,7 @@
 * Bidirectional Typing
 * Program = Proof
 * Formal Topology in Univalent Foundations
+* A DISTRIBUTED pi-calculus [(link)](../master/papers/Adistributedpi-calculus(MatthewHennessy)(Z-Library))
 
 ## Programming Language Theory (general)
 * The Design and Implementation of Typed Scheme
@@ -59,6 +60,7 @@
 * Practical dependent type checking using twin types
 * A Dependently-Typed Linear π-Calculus in Agda
 * Co-Contextual Typing Inference for the Linear π-Calculus in Agda
+* Mœbius: Metaprogramming using Contextual Types [(link)](../master/papers/3498700.pdf)
 
 ## Dependent Types
 * Dependent Types in Haskell: Theory and Practice
