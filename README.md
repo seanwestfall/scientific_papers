@@ -82,8 +82,8 @@
 * Lazy Functional Components for Graphical User Interfaces
 
 ## NixOS
-* NixOS: A Purely Functional Linux Distribution
-* The Purely Functional Software Deployment Model
+* NixOS: A Purely Functional Linux Distribution [(link)](../master/papers/nixos-jfp-final.pdf)
+* The Purely Functional Software Deployment Model [(link)](../master/papers/dolstra-thesis.pdf)
 
 ## Cubical Type Theory
 * Cubical Type Theory: A Constructive Interpretation of the Univalence Axiom
@@ -123,3 +123,4 @@
 * HASKELL The Craft of Functional Programming [(link)](../master/papers/craft3e.pdf)
 * Understanding and Evolving the ML Module System [(link)](../master/papers/understanding-and-evolving-the-ml-module-system.pdf)
 * Mathematics for Computer Science [(link)](../master/papers/mcs.pdf)
+* A Modern Compiler for the French Tax Code [(link)](../master/papers/2011.07966.pdf)
