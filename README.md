@@ -103,7 +103,7 @@
 * Inference, interference and invariance: How the Quantum Fourier Transform can help to learn from data [(link)](../master/papers/2409.00172v1.pdf)
 
 ## Non-terrestrial Quantum Networks
-* A survey on non-terrestrial quantum networking: Challenges and trends [(link)](../masters/papers/1-s2.0-S1389128624005000-main.pdf)
+* A survey on non-terrestrial quantum networking: Challenges and trends [(link)](../master/papers/1-s2.0-S1389128624005000-main.pdf)
 
 ## Uncategorized
 * The Implementation of Functional Programming Languages
