@@ -123,3 +123,6 @@
 * HASKELL The Craft of Functional Programming [(link)](../master/papers/craft3e.pdf)
 * Understanding and Evolving the ML Module System [(link)](../master/papers/understanding-and-evolving-the-ml-module-system.pdf)
 * Mathematics for Computer Science [(link)](../master/papers/mcs.pdf)
+* The Join Calculus: a Language for Distributed Mobile Programming [(link)](../master/papers/join-tutorial.pdf)
+
+
