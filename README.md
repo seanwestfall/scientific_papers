@@ -115,7 +115,7 @@
 * A Calculus of Mobile Processes, I & II
 * Efficient Communication and Collection with Compact Normal Form
 * Purely Functional Data Structures
-* How to write a Finanial Contract
+* How to write a Financial Contract
 * Composing Contracts: An Adventure in Financial Engineering
 * How to Keep Your Neighbours in Order
 * On the Bright Side of Type Classes: Instance Arguments in Agda  
