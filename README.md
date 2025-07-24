@@ -127,3 +127,4 @@
 * Understanding and Evolving the ML Module System [(link)](../master/papers/understanding-and-evolving-the-ml-module-system.pdf)
 * Mathematics for Computer Science [(link)](../master/papers/mcs.pdf)
 * A Modern Compiler for the French Tax Code [(link)](../master/papers/2011.07966.pdf)
+* The Knowledge Complexity of Interactive Proof Systems [(link)](https://github.com/seanwestfall/scientific_papers/blob/master/papers/The_Knowledge_Complexity_Of_Interactive_Proof_Systems.pdf)
