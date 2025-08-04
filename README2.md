@@ -20,4 +20,10 @@
 ### Combinatorics
 | Title | Author | Date | Link |
 | --- | --- | --- | --- |
-| Introduction to Combinatorial Analysis | John Riordan | 1958 | [link](https://github.com/seanwestfall/scientific_papers/blob/master/papers/introduction-to-combinatorial-analysis.epub_compress.pdf) |
+| Introduction to Combinatorial Analysis | John Riordan | 1958 | [link](https://github.com/seanwestfall/scientific_papers/blob/master/papers/introduction-to-combinatorial-analysis.epub_compress.pdf) |  
+
+### Homomorphic Encryption
+| Title | Author | Date | Link |
+| --- | --- | --- | --- |
+| The Beginner's Textbook for Homomorphic Encryption | Ronny Ko | 2025 | [link](https://github.com/seanwestfall/scientific_papers/blob/master/papers/2503.05136v13.pdf) |  
+
