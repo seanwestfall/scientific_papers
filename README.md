@@ -128,3 +128,5 @@
 * Mathematics for Computer Science [(link)](../master/papers/mcs.pdf)
 * A Modern Compiler for the French Tax Code [(link)](../master/papers/2011.07966.pdf)
 * The Knowledge Complexity of Interactive Proof Systems [(link)](https://github.com/seanwestfall/scientific_papers/blob/master/papers/The_Knowledge_Complexity_Of_Interactive_Proof_Systems.pdf)
+* The Calculus of Constructions [(link)](https://github.com/seanwestfall/scientific_papers/blob/master/papers/RR-0530.pdf)
+* Smart Reduction [(link)](https://github.com/seanwestfall/scientific_papers/blob/master/papers/Crouzen-Lang-11.pdf)
