@@ -23,7 +23,30 @@
 | Introduction to Combinatorial Analysis | John Riordan | 1958 | [link](https://github.com/seanwestfall/scientific_papers/blob/master/papers/introduction-to-combinatorial-analysis.epub_compress.pdf) |  
 
 ### Homomorphic Encryption
+| Title | Author | Date | Link |  
+| --- | --- | --- | --- |  
+| The Beginner's Textbook for Homomorphic Encryption | Ronny Ko | 2025 | [link](https://github.com/seanwestfall/scientific_papers/blob/master/papers/2503.05136v13.pdf) |  
+
+### Surreal Numbesr
+| Title | Author | Date | Link |  
+| --- | --- | --- | --- |  
+| Sureal Numbers | D. E. Knuth | 1974 | [link](https://github.com/seanwestfall/scientific_papers/blob/master/papers/Knuth-SurrealNumbers.pdf) |  
+| Sureal Numbers -- An Introduction | Claus Tøndering | 2019 | [link](https://github.com/seanwestfall/scientific_papers/blob/master/papers/sur16.pdf) |  
+
+### One-time Signature Schemes  
 | Title | Author | Date | Link |
 | --- | --- | --- | --- |
-| The Beginner's Textbook for Homomorphic Encryption | Ronny Ko | 2025 | [link](https://github.com/seanwestfall/scientific_papers/blob/master/papers/2503.05136v13.pdf) |  
+| Quantum-access security of the Winternitz one-time signature scheme | Christian Majenz, Chanelle Matadah Manfouo, and Maris Ozols | 2021 | [link](https://github.com/seanwestfall/scientific_papers/blob/master/papers/2103.12448v2.pdf) |  
+| Constructing Digital Signatures from One Way Function | Leslie Lamport | 1979 | [link](https://github.com/seanwestfall/scientific_papers/blob/master/papers/Constructing-Digital-Signatures-from-a-One-Way-Function) |  
+
+### Support Vector Machines  
+| Title | Author | Date | Link |  
+| --- | --- | --- | --- |  
+| Learning with Kernels | Bernhard Schölkopf, Alexander J. Smola | 2002 | [link](https://github.com/seanwestfall/scientific_papers/blob/master/papers/scholkopf2002learning_with_kernels.pdf) |  
+
+### Actuarian Science  
+| Title | Author | Date | Link |  
+| --- | --- | --- | --- |   
+| Actuarial Mathematics | Newton L. Bowers, Jr., Hans U. Gerber, James C. Hickman, Donald A. Jones, Cecil J. Hesbitt | 1997 | [link](https://github.com/seanwestfall/scientific_papers/blob/master/papers/pdf-actuarial-mathematics-by-newton-bowers_compress.pdf) |   
+
 
