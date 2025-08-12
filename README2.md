@@ -38,7 +38,7 @@
 | --- | --- | --- | --- |
 | A Certified Digital Signature | Ralph C. Merkle | 1979 |  [link](https://github.com/seanwestfall/scientific_papers/blob/master/papers/0-387-34805-0_21.pdf) |  
 | Quantum-access security of the Winternitz one-time signature scheme | Christian Majenz, Chanelle Matadah Manfouo, and Maris Ozols | 2021 | [link](https://github.com/seanwestfall/scientific_papers/blob/master/papers/2103.12448v2.pdf) |  
-| Constructing Digital Signatures from One Way Function | Leslie Lamport | 1979 | [link](https://github.com/seanwestfall/scientific_papers/blob/master/papers/Constructing-Digital-Signatures-from-a-One-Way-Function) |  
+| Constructing Digital Signatures from One Way Function | Leslie Lamport | 1979 | [link](https://github.com/seanwestfall/scientific_papers/blob/master/papers/Constructing-Digital-Signatures-from-a-One-Way-Function.pdf) |  
 
 ### Support Vector Machines  
 | Title | Author | Date | Link |  
