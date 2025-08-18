@@ -27,7 +27,7 @@
 | --- | --- | --- | --- |  
 | The Beginner's Textbook for Homomorphic Encryption | Ronny Ko | 2025 | [link](https://github.com/seanwestfall/scientific_papers/blob/master/papers/2503.05136v13.pdf) |  
 
-### Surreal Numbesr
+### Surreal Numbers
 | Title | Author | Date | Link |  
 | --- | --- | --- | --- |  
 | Sureal Numbers | D. E. Knuth | 1974 | [link](https://github.com/seanwestfall/scientific_papers/blob/master/papers/Knuth-SurrealNumbers.pdf) |  
