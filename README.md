@@ -73,6 +73,7 @@
 * Composable Efficient Array Computations Using Linear Types
 * On the Duality of Streams: How Can Linear Types Help to Solve the Lazy IO Problem?
 * Linear types can change the world!
+* Destination-passing style programming: a Haskell implementation [(link)[(../master/papers/2312.11257v1.pdf)  
 
 ## Pi-calculus
 * A DISTRIBUTED pi-calculus [(link)](../master/papers/Adistributedpi-calculus(MatthewHennessy)(Z-Library).pdf)

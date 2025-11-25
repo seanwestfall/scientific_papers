@@ -50,4 +50,9 @@
 | --- | --- | --- | --- |   
 | Actuarial Mathematics | Newton L. Bowers, Jr., Hans U. Gerber, James C. Hickman, Donald A. Jones, Cecil J. Hesbitt | 1997 | [link](https://github.com/seanwestfall/scientific_papers/blob/master/papers/pdf-actuarial-mathematics-by-newton-bowers_compress.pdf) |   
 
+### Large Cardinals  
+| Title | Author | Date | Link |  
+| --- | --- | --- | --- |   
+| The Higher Infinite: Large Cardinals in Set Theory from Their Beginnings |  Akihiro Kanamori | 2009 | [link](https://github.com/seanwestfall/scientific_papers/blob/master/papers/The%20Higher%20Infinite_%20Large%20Cardinals%20in%20Set%20Theory%20from%20--%20Akihiro%20Kanamori%20%28auth_%29%20--%20Springer%20Monographs%20in%20Mathematics%2C%20Springer%20Monographs%20in%20--%209783540003847%20--%2081c7f6d082be7c25a595b1816ebcde32%20--%20Anna%E2%80%99s%20Archive.pdf) |   
+
 
